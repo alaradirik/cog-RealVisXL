@@ -1,5 +1,5 @@
-# Cog wrapper for RealVisXL V3.0 Turbo
-This is a cog wrapper for RealVisXL V3.0 Turbo for photorealistic image generation. See the original [repo](https://huggingface.co/SG161222/RealVisXL_V3.0_Turbo), [Civit AI model page](https://civitai.com/models/139562?modelVersionId=272378) and Replicate [demo](https://replicate.com/adirik/realvisxl-v3.0-turbo) for details.
+# Cog wrapper for RealVisXL
+This is a cog wrapper for RealVisXL models for photorealistic image generation. See the original RealVisXL model [collection]([https://huggingface.co/SG161222/RealVisXL_V3.0_Turbo](https://huggingface.co/collections/SG161222/realvisxl-sdxl-656daeb4adba74cd5ea2ef44)), [Civit AI model page](https://civitai.com/models/139562) and Replicate RealVisXL V3.0 Turbo [demo](https://replicate.com/adirik/realvisxl-v3.0-turbo) for details.
 
 
 ## Basic Usage
